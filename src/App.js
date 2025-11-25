@@ -102,7 +102,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>�� Моя коллекция фильмов</h1>
+        <h1>🎬 Моя коллекция фильмов</h1>
         <FavoritesCounter count={favorites.length} />
       </header>
       
